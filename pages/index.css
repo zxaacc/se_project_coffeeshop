@@ -121,8 +121,7 @@ max-height: 39px;
     background-color: #0a2750;
     background-image: url(/images/background_recipes.svg);
     background-repeat: no-repeat;
-    position: center;
-    size: cover;
+    background-size: cover;
 }
 
 .recipes__title {
