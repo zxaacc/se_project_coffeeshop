@@ -1,11 +1,12 @@
 .header {
+    background-image: url("../images/background_header.svg");
     padding: 30px 80px 40px;
     min-height: 720px;
     max-height: 800px;
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url("/images/background_header.svg");
+    
     background-color: #fff;
     background-size: cover;
     background-repeat: no-repeat;
@@ -14,8 +15,8 @@
    .header__image {
     z-index: 1;
     position: absolute;
-    max-width: 646px;
-    max-height: 568px;
+    width: 646px;
+    height: 568px;
     top: 124px;
     right: 5px;
    }
@@ -23,7 +24,7 @@
    .header__title {
        max-width: 729px;
        margin: 183px 0 0;
-       font-family: "Inter Arial sans-serif";
+       font-family: "Inter", Arial, sans-serif;
        font-style: normal;
        font-weight: 500;
        font-size: 60px;
@@ -36,7 +37,7 @@
    
    .header__span-accent {
        display: block;
-       font-family: "Notoro Serif, Times New Roman, serif family";
+       font-family: "Notoro Serif", Times New Roman, serif family;
        font-style: italic;
        font-weight: normal;
        font-size: 60px;
@@ -47,7 +48,7 @@
    .header__description {
        margin: 28px 0 0;
        max-width: 683px;
-       font-family: "Notoro Serif, Times New Roman, serif family";
+       font-family: "Notoro Serif", Times New Roman, serif family;
        font-style: normal;
        font-weight: normal;
        font-size: 20px;
@@ -64,7 +65,7 @@
    
    .header__paragraph {
       margin: 0;
-      font-family: "Inter Arial sans-serif";
+      font-family: "Inter", Arial, sans-serif;
       font-style: normal;
       font-weight: 500;
       font-size: 16px;

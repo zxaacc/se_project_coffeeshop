@@ -16,7 +16,7 @@ height: 39px;
 .footer__social-heading {
  color: #fff;
  margin: 0 0 20px;
- font-family: 'Inter Arial sans-serif';
+ font-family: "Inter", Arial, sans-serif;
  font-weight: bold;
  font-size: 16px;
  line-height: 20px;
@@ -40,7 +40,7 @@ margin-right: 10px;
 .footer__social-link {
  color: #fff;
  text-decoration: none;
- font-family: 'Inter Arial sans-serif';
+ font-family: "Inter", Arial, sans-serif;
  font-size: 16px;
  line-height: 20px;
 }
@@ -55,7 +55,7 @@ margin-right: 80px;
 color: #fff;
 padding: 108px 80px 60px;
 margin-right: 0;
-font-family: 'Inter Arial sans-serif';
+font-family: "Inter", Arial, sans-serif;
 font-size: 16px;
 line-height: 20px;
 }

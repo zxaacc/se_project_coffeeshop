@@ -14,3 +14,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
+I plan on in the future after learning Javascript coming back to this project and giving it some funtionality.
