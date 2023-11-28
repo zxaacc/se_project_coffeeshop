@@ -23,7 +23,7 @@
 
 .header__title {
   max-width: 729px;
-  margin: 183px 0 0 80px;
+  margin: 183px 0 0 0;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -44,7 +44,7 @@
 }
 
 .header__description {
-  margin: 28px 0 0 80px;
+  margin: 28px 0 0 0;
   max-width: 683px;
   font-family: "Noto Serif", Times New Roman, serif;
   font-style: normal;
@@ -59,7 +59,6 @@
   justify-content: space-between;
   margin-top: auto;
   position: relative;
-  left: 80px;
   bottom: 40px;
   margin-right: 80px;
   z-index: 1;
